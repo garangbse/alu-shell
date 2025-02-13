@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+# This script stops the process named "4-to_infinity_and_beyond" using pkill command without kill/killall
+# The -f option allows pkill to match against the entire command line instead of just the process name
 pkill -f "4-to_infinity_and_beyond"

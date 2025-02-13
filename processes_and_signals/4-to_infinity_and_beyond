@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script displays "To infinity and beyond" message indefinitely with 2 second intervals between each iteration
 while true
 do
     echo "To infinity and beyond"
